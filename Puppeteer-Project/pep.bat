@@ -1,0 +1,1 @@
+node newsTranslator.js "translatorCredentials.json" 5
